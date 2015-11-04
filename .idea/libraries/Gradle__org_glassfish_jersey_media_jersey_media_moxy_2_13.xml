@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.jersey.media:jersey-media-moxy:2.13">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.media/jersey-media-moxy/2.13/c9c5467a326048e30fa64408416c03e14754bd8/jersey-media-moxy-2.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.media/jersey-media-moxy/2.13/abcee35f8f7f1cc3ed9ffe8d224ffcee8d91418f/jersey-media-moxy-2.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -10,3 +10,9 @@ bin/
 .classpath
 .project
 .settings
+
+# Ignore IntelliJ IDEA extra files
+.idea/
+*.iml
+*.xml
+application.properties
